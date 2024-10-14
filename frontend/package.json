@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "better-sqlite3": "^11.3.0",
     "mapbox-gl": "^3.7.0",
     "maplibre-gl": "^4.7.1",
     "next": "14.2.15",
@@ -16,6 +17,7 @@
     "react-dom": "^18",
     "react-query": "^3.39.3",
     "socket.io-client": "^4.8.0",
+    "sqlite": "^5.1.1",
     "sqlite3": "^5.1.7"
   },
   "devDependencies": {
